@@ -4,7 +4,3 @@ edit from github
 edit from github
 to git gui
 to git gui
- new commit - new commit
-
-final lines
-added to the web
