@@ -7,7 +7,4 @@ to git gui
  new commit - new commit
 
 for branch feature
-
--------------
-______________
-===============
+тут есть второй куплет
