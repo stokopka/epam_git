@@ -6,5 +6,5 @@ to git gui
 to git gui
  new commit - new commit
 
-final lines
-added to the web
+for branch feature
+тут есть второй куплет
